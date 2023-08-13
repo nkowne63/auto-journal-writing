@@ -1,4 +1,5 @@
 mod hello;
+mod openai;
 
 use crate::hello::hello;
 
